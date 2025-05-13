@@ -5,14 +5,14 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🚀 About Me
 
 - 🎓 **Who I am:** 
-I am currently a 22 year old student at Codespace Academy learning software development.
+I am currently a 23 year old graduate at Codespace Academy,with a 6 month full time software development certificate.
 
 - 🌍 **Location:**
  I currently reside in Crawford, Cape Town
 
 - 💼 **What I do:** 
-I am a software development student 
-I currently work for a photo booth company as well as a delivery driver for Takealot.
+I am a software development graduate 
+I currently work as a freelancer for a photo booth company, as well as a delivery driver for Takealot.
 
 - 🎯 **Interests:** 
 A few of my interest include:
@@ -47,7 +47,12 @@ Explanation:
 
 ## 🌱 What I'm Learning
 - Basics of software development
-- Career Development 
+- Career Development
+- REACT
+- node.js
+- typescript
+- AGILE
+- Tailwind
 
 ---
 
@@ -75,6 +80,6 @@ Explanation:
 
 ### SDF07 (https://github.com/BlazingArrow246Module_2R_MOGMOE24057__fto2410_Nathier-Moerat_SDF07_R)
 
-### SDF08 (https://github.com/BlazingArrow246Module_2R_MOGMOE24057__fto2410_Nathier-Moerat_SDF08_R)
+### SDF08 (https://github.com/BlazingArrow246Module_2R_MOGMOE24057__fto2410_Nathier-Moerat_SDF08_R
 
 ---
